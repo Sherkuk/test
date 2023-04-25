@@ -3,4 +3,134 @@
 							<a href="/index.php/struktura-profkoma">Структура профкома студентов</a>
 							
 		</h1>
-        
+		<table style="font-family: Georgia; font-size: 20; border: 0px solid #f4f1f1; border-collapse: collapse;" cellspacing="20" cellpadding="20" border="0">
+			<tbody>
+			<tr>
+			<td width="30%"><img src="/images/Faces/am.JPG" align="center" style="margin-bottom: 5px;"></td>
+			<td>
+			<p style="text-align: center;" align="center"><b>Председатель профкома студентов УО «ВГМУ»</b></p>
+			<p style="text-align: center;" align="center">Мясоедов Александр Михайлович</p>
+			<p style="text-align: center;" align="center">Тел. раб. 64-81-40</p>
+			<p style="text-align: center;" align="center">Тел. моб. +375(29) 510-27-30</p>
+			<p align="center"><a href="https://vk.com/profcom_vsmu" target="_blank"><img src="/images/Faces/Icons/Vk.png" position="middle" onmouseout="this.src='/images/Faces/Icons/Vk.png';" onmouseover="this.src='/images/Faces/Icons/Vk_1.png';"></a><a href="https://www.instagram.com/profcom.vsmu/" target="_blank"><img src="/images/Faces/Icons/inst64.png" position="middle" onmouseout="this.src='/images/Faces/Icons/inst64.png';" onmouseover="this.src='/images/Faces/Icons/inst64_1.png';"></a></p>
+			</td>
+			</tr>
+			<tr>
+			<td width="30%"><img src="/images/Faces/vf.jpg" align="center" style="margin-bottom: 5px;"></td>
+			<td>
+			<p style="text-align: center;" align="center"><b>Главный бухгалтер профкома студентов УО «ВГМУ»</b></p>
+			<p style="text-align: center;" align="center">Замотина Валентина Федоровна</p>
+			<p style="text-align: center;" align="center">Тел. моб. +375(29) 719-42-25</p>
+			<p align="center"><a target="_blank"><img src="/images/Faces/Icons/Vk.png" position="middle" onmouseout="this.src='/images/Faces/Icons/Vk.png';" onmouseover="this.src='/images/Faces/Icons/Vk_2.png';"></a><a target="_blank"><img src="/images/Faces/Icons/inst64.png" position="middle" onmouseout="this.src='/images/Faces/Icons/inst64.png';" onmouseover="this.src='/images/Faces/Icons/inst64_2.png';"></a></p>
+			</td>
+			</tr>
+			<tr>
+			<td width="30%"><img src="/images/Faces/kovalevski.jpg" align="center" style="margin-bottom: 5px;"></td>
+			<td>
+			<p style="text-align: center;" align="center"><b>Заместитель председателя профкома студентов</b></p>
+			<p style="text-align: center;" align="center">Ковалевский Артём Андреевич</p>
+			<p style="text-align: center;" align="center">Тел. моб. +375(25) 675-37-87</p>
+			<p align="center"><a href="https://vk.com/tema_kovalevskiy" target="_blank"><img src="/images/Faces/Icons/Vk.png" position="middle" onmouseout="this.src='/images/Faces/Icons/Vk.png';" onmouseover="this.src='/images/Faces/Icons/Vk_1.png';"></a><a href="https://www.instagram.com/artemdoc23/" target="_blank"><img src="/images/Faces/Icons/inst64.png" position="middle" onmouseout="this.src='/images/Faces/Icons/inst64.png';" onmouseover="this.src='/images/Faces/Icons/inst64_1.png';"></a></p>
+			</td>
+			</tr>
+			<tr>
+			<td width="30%"><img src="/images/Faces/moshko.jpg" align="center" style="margin-bottom: 5px;"></td>
+			<td>
+			<p style="text-align: center;" align="center"><b>Председатель организационно-массовой комиссии</b></p>
+			<p style="text-align: center;" align="center">Мошко Наталья Владимировна</p>
+			<p style="text-align: center;" align="center">Тел. моб. +375(33) 303-80-53</p>
+			<p align="center"><a href="https://vk.com/id138567589" target="_blank"><img src="/images/Faces/Icons/Vk.png" position="middle" onmouseout="this.src='/images/Faces/Icons/Vk.png';" onmouseover="this.src='/images/Faces/Icons/Vk_1.png';"></a><a href="https://www.instagram.com/natasha_mashko/" target="_blank"><img src="/images/Faces/Icons/inst64.png" position="middle" onmouseout="this.src='/images/Faces/Icons/inst64.png';" onmouseover="this.src='/images/Faces/Icons/inst64_1.png';"></a></p>
+			</td>
+			</tr>
+			<tr>
+			<td width="30%"><img src="/images/Faces/zaruba.jpg" align="center" style="margin-bottom: 5px;"></td>
+			<td>
+			<p style="text-align: center;" align="center"><b>Председатель комиссии по работе с информацией и связями с общественностью</b></p>
+			<p style="text-align: center;" align="center">Заруба Дина Андреевна</p>
+			<p style="text-align: center;" align="center">Тел. моб. +375(29) 787-60-15</p>
+			<p align="center"><a href="https://vk.com/id153572887" target="_blank"><img src="/images/Faces/Icons/Vk.png" position="middle" onmouseout="this.src='/images/Faces/Icons/Vk.png';" onmouseover="this.src='/images/Faces/Icons/Vk_1.png';"></a><a href="https://www.instagram.com/_dinatriy/" target="_blank"><img src="/images/Faces/Icons/inst64.png" position="middle" onmouseout="this.src='/images/Faces/Icons/inst64.png';" onmouseover="this.src='/images/Faces/Icons/inst64_1.png';"></a></p>
+			</td>
+			</tr>
+			<tr>
+			<td width="30%"><img src="/images/Faces/baranova.jpg" align="center" style="margin-bottom: 5px;"></td>
+			<td>
+			<p style="text-align: center;" align="center"><b>Председатель ревизионной комиссии</b></p>
+			<p style="text-align: center;" align="center">Баранова Владислава Владимировна</p>
+			<p style="text-align: center;" align="center">Тел. моб. +375(33) 645-17-04</p>
+			<p align="center"><a href="https://vk.com/id88326105" target="_blank"><img src="/images/Faces/Icons/Vk.png" position="middle" onmouseout="this.src='/images/Faces/Icons/Vk.png';" onmouseover="this.src='/images/Faces/Icons/Vk_1.png';"></a><a href="https://www.instagram.com/vlados_partos_27/" target="_blank"><img src="/images/Faces/Icons/inst64.png" position="middle" onmouseout="this.src='/images/Faces/Icons/inst64.png';" onmouseover="this.src='/images/Faces/Icons/inst64_1.png';"></a></p>
+			</td>
+			</tr>
+			<tr>
+			<td width="30%"><img src="/images/Faces/Paramon.png" style="margin-bottom: 5px;" width="200" height="300" alt="Paramon"></td>
+			<td>
+			<p style="text-align: center;" align="center"><b>Председатель жилищно-бытовой комиссии</b></p>
+			<p style="text-align: center;" align="center">Парамонов Никита Сергеевич</p>
+			<p style="text-align: center;" align="center"><span style="color: #000000; font-family: verdana, geneva; font-size: 11px; text-align: center;">Тел. моб. +375(29) 552-19-61</span></p>
+			<p align="center"><a href="/vk.com/nick.gold" target="_blank"><img src="/images/Faces/Icons/Vk.png" position="middle" onmouseout="this.src='/images/Faces/Icons/Vk.png';" onmouseover="this.src='/images/Faces/Icons/Vk_1.png';"></a><img src="/images/Faces/Icons/inst64_2.png" position="middle" onmouseout="this.src='/images/Faces/Icons/inst64_2.png';" onmouseover="this.src='/images/Faces/Icons/inst64_1.png';" width="64" height="64" alt="inst64 2"></p>
+			</td>
+			</tr>
+			<tr>
+			<td width="30%"><img src="/images/Faces/kovaleva.jpg" align="center" style="margin-bottom: 5px;"></td>
+			<td>
+			<p style="text-align: center;" align="center"><b>Председатель комиссии по студенческому контролю</b></p>
+			<p style="text-align: center;" align="center">Ковалёва Елизавета Витальевна</p>
+			<p style="text-align: center;" align="center">Тел. моб. +375(33) 384-21-24</p>
+			<p align="center"><a href="https://vk.com/id194323187" target="_blank"><img src="/images/Faces/Icons/Vk.png" position="middle" onmouseout="this.src='/images/Faces/Icons/Vk.png';" onmouseover="this.src='/images/Faces/Icons/Vk_1.png';"></a><a href="https://www.instagram.com/_lzkvlv_/" target="_blank"><img src="/images/Faces/Icons/inst64.png" position="middle" onmouseout="this.src='/images/Faces/Icons/inst64.png';" onmouseover="this.src='/images/Faces/Icons/inst64_1.png';"></a></p>
+			</td>
+			</tr>
+			<tr>
+			<td width="30%"><img src="/images/Faces/abiralo.jpg" align="center" style="margin-bottom: 5px;"></td>
+			<td>
+			<p style="text-align: center;" align="center"><b>Председатель учебно-воспитательной комиссии</b></p>
+			<p style="text-align: center;" align="center">Абирало Ольга Сергеевна</p>
+			<p style="text-align: center;" align="center">Тел. моб. *Будет дополнено*</p>
+			<p align="center"><a href="https://vk.com/id387403431" target="_blank"><img src="/images/Faces/Icons/Vk.png" position="middle" onmouseout="this.src='/images/Faces/Icons/Vk.png';" onmouseover="this.src='/images/Faces/Icons/Vk_1.png';"></a><a href="#"><img src="/images/Faces/Icons/inst64.png" position="middle" onmouseout="this.src='/images/Faces/Icons/inst64.png';" onmouseover="this.src='/images/Faces/Icons/inst64_2.png';"></a></p>
+			</td>
+			</tr>
+			<tr>
+			<td width="30%"><img src="/images/Faces/kharitanovich.jpg" align="center" style="margin-bottom: 5px;"></td>
+			<td>
+			<p style="text-align: center;" align="center"><b>Председатель комиссии по работе с иностранными гражданами</b></p>
+			<p style="text-align: center;" align="center">Харитонович Елизавета Сергеевна</p>
+			<p style="text-align: center;" align="center">Тел. моб. *Будет дополнено*</p>
+			<p align="center"><a href="https://vk.com/lizalisa2112" target="_blank"><img src="/images/Faces/Icons/Vk.png" position="middle" onmouseout="this.src='/images/Faces/Icons/Vk.png';" onmouseover="this.src='/images/Faces/Icons/Vk_1.png';"></a><a href="##############"><img src="/images/Faces/Icons/inst64.png" position="middle" onmouseout="this.src='/images/Faces/Icons/inst64.png';" onmouseover="this.src='/images/Faces/Icons/inst64_2.png';"></a></p>
+			</td>
+			</tr>
+			<tr>
+			<td width="30%"><img src="/images/Faces/shorstkaya.JPG" align="center" style="margin-bottom: 5px;"></td>
+			<td>
+			<p style="text-align: center;" align="center"><b>Председатель культурно-массой комиссии</b></p>
+			<p style="text-align: center;" align="center">Длуцкая Елизавета Алексеевна</p>
+			<p style="text-align: center;" align="center">Тел. моб. +375(44) 726-01-96</p>
+			<p align="center"><a href="https://vk.com/id223960894" target="_blank"><img src="/images/Faces/Icons/Vk.png" position="middle" onmouseout="this.src='/images/Faces/Icons/Vk.png';" onmouseover="this.src='/images/Faces/Icons/Vk_1.png';"></a><a href="https://www.instagram.com/shorstick/" target="_blank"><img src="/images/Faces/Icons/inst64.png" position="middle" onmouseout="this.src='/images/Faces/Icons/inst64.png';" onmouseover="this.src='/images/Faces/Icons/inst64_1.png';"></a></p>
+			</td>
+			</tr>
+			<tr>
+			<td width="30%"><img src="/images/Faces/kukresh.jpg" align="center" style="margin-bottom: 5px;"></td>
+			<td>
+			<p style="text-align: center;" align="center"><b>Председатель комиссии по внедрению информационных технологий</b></p>
+			<p style="text-align: center;" align="center">Кукреш Ян Андреевич</p>
+			<p style="text-align: center;" align="center">Тел. моб. +375(44) 535-63-12</p>
+			<p align="center"><a href="https://vk.com/sherkuk" target="_blank"><img src="/images/Faces/Icons/Vk.png" position="middle" onmouseout="this.src='/images/Faces/Icons/Vk.png';" onmouseover="this.src='/images/Faces/Icons/Vk_1.png';"></a><a href="https://www.instagram.com/jjsherkuk/" target="_blank"><img src="/images/Faces/Icons/inst64.png" position="middle" onmouseout="this.src='/images/Faces/Icons/inst64.png';" onmouseover="this.src='/images/Faces/Icons/inst64_1.png';"></a></p>
+			</td>
+			</tr>
+			<tr>
+			<td width="30%"><img src="/images/Faces/kubrakov.jpg" align="center" style="margin-bottom: 5px;"></td>
+			<td>
+			<p style="text-align: center;" align="center"><b>Председатель спортивно-оздоровительной комиссии</b></p>
+			<p style="text-align: center;" align="center">Кубраков Кирилл Константинович</p>
+			<p style="text-align: center;" align="center">Тел. моб. +375(33) 399-76-86</p>
+			<p align="center"><a href="https://vk.com/kirillkubrakov177" target="_blank"><img src="/images/Faces/Icons/Vk.png" position="middle" onmouseout="this.src='/images/Faces/Icons/Vk.png';" onmouseover="this.src='/images/Faces/Icons/Vk_1.png';"></a><a href="https://www.instagram.com/kirillkubrakov177/"><img src="/images/Faces/Icons/inst64.png" position="middle" onmouseout="this.src='/images/Faces/Icons/inst64.png';" onmouseover="this.src='/images/Faces/Icons/inst64_1.png';"></a></p>
+			</td>
+			</tr>
+			<tr>
+			<td width="30%"><img src="/images/Faces/davydov.jpg" align="center" style="margin-bottom: 5px;"></td>
+			<td>
+			<p style="text-align: center;" align="center"><b>Председатель комиссии по социальной защите студентов</b></p>
+			<p style="text-align: center;" align="center">Давыдов Егор Сергеевич</p>
+			<p style="text-align: center;" align="center">Тел. моб. +375 (29) 510-07-29</p>
+			<p align="center"><a href="https://vk.com/bsmu_hater" target="_blank"><img src="/images/Faces/Icons/Vk.png" position="middle" onmouseout="this.src='/images/Faces/Icons/Vk.png';" onmouseover="this.src='/images/Faces/Icons/Vk_1.png';"></a><a href="###"><img src="/images/Faces/Icons/inst64.png" position="middle" onmouseout="this.src='/images/Faces/Icons/inst64.png';" onmouseover="this.src='/images/Faces/Icons/inst64_2.png';"></a></p>
+			</td>
+			</tr>
+			</tbody>
+			</table>    
